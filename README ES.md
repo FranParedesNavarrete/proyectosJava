@@ -1,0 +1,10 @@
+<h1> Proyectos en Java </h1>
+<p>Este repositorio contiene una colección de proyectos desarrollados en Java. Aquí se encuentran los siguientes proyectos:</p>
+<li><a href="https://github.com/FranParedesNavarrete/proyectosJava/tree/main/Unidad%205%20-%20Programaci%C3%B3n%20modular">Hundir la flota</a>: Hace lo mismo que el juego de mesa ´Hundir la flota´, pero tu escoges la dificultad y tienes que hundir x número de barcos en x movimientos y en valenciano.</li>
+<li><a href="https://github.com/FranParedesNavarrete/proyectosJava/tree/main/Unidad%206%20-%20Programaci%C3%B3n%20orientada%20a%20objetos">Street Fighter</a>: Copia del juego 'Street Fighter' donde el ganandor de la primera pelea se enfrenta al jefe final 'Mr Bison'.</li>
+<li><a href="https://github.com/FranParedesNavarrete/proyectosJava/tree/main/Unidad%207%20-%20Estructuras%20de%20datos%20din%C3%A1micas">Agenda</a>: Una agenda simple que te permite añadir nuevos contactos, elinminarlos, mostrarlos y buscar un contacto especifico.</li>
+<li><a href="https://github.com/FranParedesNavarrete/proyectosJava/tree/main/Unidad%208%20-%20Gesti%C3%B3n%20de%20excepciones/simulacro2">Cola de cine</a>: Proyecto que gestiona el flujo de espectadores de un cine.</li>
+<li><a href="https://github.com/FranParedesNavarrete/proyectosJava/tree/main/Unidad%209%20-%20Herencia/Herencia_Netflix">Netflix</a>: Proyecto que permite dar de alta o de baja series y/o peliculas, mostrarlas y listar el contenido.</li>
+<li><a href="https://github.com/FranParedesNavarrete/proyectosJava/tree/main/Unidad%2010%20-%20Ficheros/CifradoCesar">Cifrado César</a>: Cifra el usuario, contraseña y frase introduciddas por el usuario mediante el Cifrado César con clave 5.</li>
+<li><a href="https://github.com/FranParedesNavarrete/proyectosJava/tree/main/Unidad%2010%20-%20Ficheros/MiniTerminal">Mini Terminal</a>: Terminal simple con funciones como 'ls', 'cd', 'pwd', 'mkdir'...</li>
+<li><a href="https://github.com/FranParedesNavarrete/proyectosJava/tree/main/Unidad%2010%20-%20Serializable">Agenda Serializable</a>: Se recupera el código de la agenda creada en la unidad 7 añadiendole serialización y gestión de ficheros.</li>
