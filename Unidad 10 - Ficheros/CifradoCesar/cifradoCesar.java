@@ -18,7 +18,7 @@ public class cifradoCesar {
 		char[] acentos = {'ñ', 'á', 'é', 'í', 'ó', 'ú', 'Ñ', 'Á', 'É', 'Í', 'Ó', 'Ú'};
 		
 		for(char caracter : acentos) {
-			if(text.indexOf(caracter) == -1) {
+			if(text.indexOf(caracter) != -1) {
 				throw new IllegalArgumentException();	
 			}
 		}
